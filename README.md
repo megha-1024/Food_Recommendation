@@ -53,7 +53,7 @@ Food_Recommendation/
 
 ├── .gitignore
 
-├── RAW_recipes_github_ready.csv
+├── RAW_recipes.csv
 
 └── images/
 
